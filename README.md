@@ -1,3 +1,3 @@
 # cxrm
 
-Private CRM skeleton built with Next.js.
+Minimal CRM starter built with Next.js.

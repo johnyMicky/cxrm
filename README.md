@@ -1,2 +1,3 @@
 # cxrm
-gobabygo
+
+Private CRM skeleton built with Next.js.
